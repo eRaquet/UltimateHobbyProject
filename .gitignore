@@ -1,0 +1,6 @@
+# visual studio code files
+.vscode/
+
+# PCB backups
+robot-backups/
+fp-info-cache
