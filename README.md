@@ -6,7 +6,7 @@ This code is released under the MIT licence.
 
 This is the firmware for a self-balancing two-wheeled robot.
 The robot uses stepper motors for transport, an LQG controller for stability, and a Kalman filter for sensor filtering.
-This project has been a great way for me to develop practical skills in many different areas.
+This project has been a great way for me to develop practical skills in many different areas.  If you would like to see a technical write-up of this project, you can find it [here](https://drive.google.com/file/d/1yd39i1YjvD11JdsaPKPIDzlGQhWOL76k/view?usp=drive_link).
 
 I hope that this repo will encourage you to try to conquer the inverted pendulum as I have. :)
 
